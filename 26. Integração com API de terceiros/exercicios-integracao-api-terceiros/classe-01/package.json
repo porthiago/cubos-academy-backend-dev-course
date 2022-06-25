@@ -1,0 +1,27 @@
+{
+  "name": "back-integral-integracao-api-terceiros",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/porthiago/back-integral-integracao-api-terceiros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/porthiago/back-integral-integracao-api-terceiros/issues"
+  },
+  "homepage": "https://github.com/porthiago/back-integral-integracao-api-terceiros#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

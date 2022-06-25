@@ -1,0 +1,414 @@
+{
+  "banco": {
+    "nome": "Cubos Bank",
+    "numero": "123",
+    "agencia": "0001",
+    "senha": "Cubos123Bank"
+  },
+  "contas": [{
+    "numero": 1651011149435,
+    "saldo": 20,
+    "usuario": {
+      "nome": "Gabi Braun",
+      "cpf": "51561440639",
+      "data_nascimento": "2005-04-14",
+      "telefone": "9836276571",
+      "email": "braun@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 1451011344435,
+    "saldo": 10,
+    "usuario": {
+      "nome": "Gon Freecss",
+      "cpf": "90768852226",
+      "data_nascimento": "31-10-1992",
+      "telefone": "71999998888",
+      "email": "freaks@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 1651017021197,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Nico Robin",
+      "cpf": "72771872706",
+      "data_nascimento": "1987-02-10",
+      "telefone": "71999998888",
+      "email": "poneglyph@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 1651019102150,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Bojji Sama",
+      "cpf": "45750321232",
+      "data_nascimento": "1987-02-10",
+      "telefone": "71999998888",
+      "email": "firstrank@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 1651019218827,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Sakuragi Hanamichi",
+      "cpf": "65750322230",
+      "data_nascimento": "1987-02-10",
+      "telefone": "71999998888",
+      "email": "soentraquemdunk@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 544329679751,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Son Goku",
+      "cpf": "28328434306",
+      "data_nascimento": "31-10-1992",
+      "telefone": "7199205-204",
+      "email": "ssj@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 844829379676,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Chrollo Lucilfer",
+      "cpf": "24321433306",
+      "data_nascimento": "31-10-1992",
+      "telefone": "7199205-204",
+      "email": "kuroro@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 53347650331,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Killua Zoldyck",
+      "cpf": "24325431376",
+      "data_nascimento": "31-10-1992",
+      "telefone": "7199205-204",
+      "email": "silva@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 1135926933970,
+    "saldo": 1650,
+    "usuario": {
+      "nome": "Sousuke Sagara",
+      "cpf": "45750321231",
+      "data_nascimento": "31-10-1992",
+      "telefone": "7199205-204",
+      "email": "fomuffu@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 716514452635,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Takemichi Hanagaki’",
+      "cpf": "45750321230",
+      "data_nascimento": "1987-02-10",
+      "telefone": "71999998888",
+      "email": "manjigang@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 1405664645231,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Bondrewd The Novel",
+      "cpf": "22806445507",
+      "data_nascimento": "20-05-1970",
+      "telefone": "9999205305",
+      "email": "the_lord_of_dawn@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 75589877926,
+    "saldo": 1100,
+    "usuario": {
+      "nome": "Lelouch Lamperouge",
+      "cpf": "39097412820",
+      "data_nascimento": "01-01-1990",
+      "telefone": "9999205305",
+      "email": "lelouch_vi_britannia@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 306188873767,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Monkey D. Luffy",
+      "cpf": "83844666532",
+      "data_nascimento": "05-05-1999",
+      "telefone": "9999205305",
+      "email": "mugiwara_pirate_king@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 743632657247,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Dorje Drolo",
+      "cpf": "47240212840",
+      "data_nascimento": "01-01-1000",
+      "telefone": "9427533047",
+      "email": "wrathful_sambhava@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 196920698418,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Hyuuga Neji",
+      "cpf": "01671232542",
+      "data_nascimento": "03-07-2000",
+      "telefone": "9427533047",
+      "email": "byakugan@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 2247891648,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Ishida Uryuu",
+      "cpf": "78226383339",
+      "data_nascimento": "03-07-2000",
+      "telefone": "9427533047",
+      "email": "quincy@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 450442218435,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Yagami Light",
+      "cpf": "87613512371",
+      "data_nascimento": "28-02-1986",
+      "telefone": "4637886767",
+      "email": "kira@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 734510045083,
+    "saldo": 0,
+    "usuario": {
+      "nome": "Minami Maho",
+      "cpf": "58016531121",
+      "data_nascimento": "11-07-1985",
+      "telefone": "6131380754",
+      "email": "followme@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 1326498034941,
+    "saldo": 300,
+    "usuario": {
+      "nome": "Ayukawa Madoka",
+      "cpf": "38182098394",
+      "data_nascimento": "25-05-1971",
+      "telefone": "9626853332",
+      "email": "madoka-the-pick@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 448898659957,
+    "saldo": 300,
+    "usuario": {
+      "nome": "Airs Blue",
+      "cpf": "25466744980",
+      "data_nascimento": "02-01-1990",
+      "telefone": "9626853332",
+      "email": "ryvius-true-captain@cubos.com",
+      "senha": "12345"
+    }
+  }, {
+    "numero": 763841229595,
+    "saldo": 200,
+    "usuario": {
+      "nome": "Midoriya Izuku",
+      "cpf": "02436323046",
+      "data_nascimento": "13-06-2005",
+      "telefone": "9337266786",
+      "email": "oneforall@cubos.com",
+      "senha": "12345"
+    }
+  }],
+  "saques": [{
+    "data": "2022-04-28 22:34:27",
+    "numero_conta": "1451011344435",
+    "valor": 5
+  }, {
+    "data": "2022-04-28 23:04:35",
+    "numero_conta": "1439857156640",
+    "valor": 105
+  }, {
+    "data": "2022-04-30 01:09:30",
+    "numero_conta": "1439857156640",
+    "valor": 105
+  }, {
+    "data": "2022-04-30 01:11:23",
+    "numero_conta": "1135926933970",
+    "valor": 1000
+  }, {
+    "data": "2022-04-30 11:47:48",
+    "numero_conta": "75589877926",
+    "valor": 500
+  }, {
+    "data": "2022-04-30 12:29:13",
+    "numero_conta": "75589877926",
+    "valor": 500
+  }, {
+    "data": "2022-04-30 14:04:04",
+    "numero_conta": "180952846193",
+    "valor": 500
+  }, {
+    "data": "2022-04-30 14:04:51",
+    "numero_conta": "180952846193",
+    "valor": 500
+  }, {
+    "data": "2022-04-30 14:13:45",
+    "numero_conta": "180952846193",
+    "valor": 1000
+  }, {
+    "data": "2022-05-02 22:25:30",
+    "numero_conta": "763841229595",
+    "valor": 500
+  }],
+  "depositos": [{
+    "data": "2022-04-26 20:51:40",
+    "numero_conta": "1651011038551",
+    "valor": 50
+  }, {
+    "data": "2022-04-26 20:52:23",
+    "numero_conta": "1651011131816",
+    "valor": 50
+  }, {
+    "data": "2022-04-26 20:52:24",
+    "numero_conta": "1651011131816",
+    "valor": 50
+  }, {
+    "data": "2022-04-26 20:52:26",
+    "numero_conta": "1651011131816",
+    "valor": 50
+  }, {
+    "data": "2022-04-28 14:36:59",
+    "numero_conta": "575063419103",
+    "valor": 1900
+  }, {
+    "data": "2022-04-28 20:17:16",
+    "numero_conta": "214592562297",
+    "valor": 1
+  }, {
+    "data": "2022-04-28 20:18:07",
+    "numero_conta": "214592562297",
+    "valor": 1
+  }, {
+    "data": "2022-04-28 22:32:53",
+    "numero_conta": "1651011038551",
+    "valor": 150
+  }, {
+    "data": "2022-04-28 22:33:05",
+    "numero_conta": "1651011038551",
+    "valor": 150
+  }, {
+    "data": "2022-04-28 22:33:18",
+    "numero_conta": "1651011038551",
+    "valor": 150
+  }, {
+    "data": "2022-04-28 22:33:47",
+    "numero_conta": "1451011344435",
+    "valor": 125
+  }, {
+    "data": "2022-04-28 23:04:10",
+    "numero_conta": "1439857156640",
+    "valor": 125
+  }, {
+    "data": "2022-04-30 01:08:12",
+    "numero_conta": "1439857156640",
+    "valor": 125
+  }, {
+    "data": "2022-04-30 11:46:50",
+    "numero_conta": "75589877926",
+    "valor": 1000
+  }, {
+    "data": "2022-04-30 12:05:21",
+    "numero_conta": "75589877926",
+    "valor": 1000
+  }, {
+    "data": "2022-04-30 12:29:08",
+    "numero_conta": "75589877926",
+    "valor": 1000
+  }, {
+    "data": "2022-04-30 14:03:59",
+    "numero_conta": "180952846193",
+    "valor": 1000
+  }, {
+    "data": "2022-04-30 14:11:53",
+    "numero_conta": "180952846193",
+    "valor": 1000
+  }, {
+    "data": "2022-05-02 22:25:18",
+    "numero_conta": "763841229595",
+    "valor": 1000
+  }],
+  "transferencias": [{
+    "data": "2022-04-26 20:52:28",
+    "numero_conta_origem": "1651011131816",
+    "numero_conta_destino": "1651011149435",
+    "valor": 20
+  }, {
+    "data": "2022-04-28 20:39:22",
+    "numero_conta_origem": "575063419103",
+    "numero_conta_destino": "1135926933970",
+    "valor": 1900
+  }, {
+    "data": "2022-04-28 22:34:51",
+    "numero_conta_origem": "1451011344435",
+    "numero_conta_destino": "1135926933970",
+    "valor": 100
+  }, {
+    "data": "2022-04-28 22:42:42",
+    "numero_conta_origem": "1451011344435",
+    "numero_conta_destino": "1135926933970",
+    "valor": 10
+  }, {
+    "data": "2022-04-28 23:05:20",
+    "numero_conta_origem": "1439857156640",
+    "numero_conta_destino": "1135926933970",
+    "valor": 10
+  }, {
+    "data": "2022-04-30 01:10:01",
+    "numero_conta_origem": "1439857156640",
+    "numero_conta_destino": "1135926933970",
+    "valor": 30
+  }, {
+    "data": "2022-04-30 11:48:51",
+    "numero_conta_origem": "75589877926",
+    "numero_conta_destino": "1135926933970",
+    "valor": 300
+  }, {
+    "data": "2022-04-30 12:29:17",
+    "numero_conta_origem": "75589877926",
+    "numero_conta_destino": "1135926933970",
+    "valor": 300
+  }, {
+    "data": "2022-04-30 14:04:09",
+    "numero_conta_origem": "75589877926",
+    "numero_conta_destino": "180952846193",
+    "valor": 300
+  }, {
+    "data": "2022-04-30 14:05:48",
+    "numero_conta_origem": "180952846193",
+    "numero_conta_destino": "448898659957",
+    "valor": 300
+  }, {
+    "data": "2022-05-02 22:25:55",
+    "numero_conta_origem": "763841229595",
+    "numero_conta_destino": "1326498034941",
+    "valor": 300
+  }]
+}

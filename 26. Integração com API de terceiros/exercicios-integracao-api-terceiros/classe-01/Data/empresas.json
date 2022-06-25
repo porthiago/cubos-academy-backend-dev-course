@@ -1,0 +1,64 @@
+[{
+  "name": "Thoughtworks",
+  "domain": "thoughtworks.com",
+  "year_founded": 1993,
+  "industry": "Information technology and services",
+  "employees_count": 7338,
+  "locality": "Chicago",
+  "country": "United States",
+  "linkedin_url": "linkedin.com/company/thoughtworks"
+}, {
+  "name": "Linkedin",
+  "domain": "linkedin.com",
+  "year_founded": 2003,
+  "industry": "Internet",
+  "employees_count": 36309,
+  "locality": "Sunnyvale",
+  "country": "United States",
+  "linkedin_url": "linkedin.com/company/linkedin"
+}, {
+  "name": "Facebook",
+  "domain": "facebook.com",
+  "year_founded": 2004,
+  "industry": "Internet",
+  "employees_count": 77517,
+  "locality": "Menlo Park",
+  "country": "United States",
+  "linkedin_url": "linkedin.com/company/facebook"
+}, {
+  "name": "Multilaser Industrial S/A",
+  "domain": "multilaser.com.br",
+  "year_founded": 1987,
+  "industry": "Consumer electronics",
+  "employees_count": 1600,
+  "locality": "Sao Paulo",
+  "country": "Brazil",
+  "linkedin_url": "linkedin.com/company/multilaser-industrial-sa"
+}, {
+  "name": "Magazine Luiza",
+  "domain": "magazineluiza.com.br",
+  "year_founded": 1957,
+  "industry": "Retail",
+  "employees_count": 18105,
+  "locality": "Sao Paulo",
+  "country": "Brazil",
+  "linkedin_url": "linkedin.com/company/magazine-luiza"
+}, {
+  "name": "Wired",
+  "domain": "wired.com",
+  "year_founded": 1993,
+  "industry": "Publishing",
+  "employees_count": 410,
+  "locality": "San Francisco",
+  "country": "United States",
+  "linkedin_url": "linkedin.com/company/wired"
+}, {
+  "name": "Greenpeace",
+  "domain": "greenpeace.org",
+  "year_founded": 1971,
+  "industry": "Non-profit organization management",
+  "employees_count": 4581,
+  "locality": "Amsterdam",
+  "country": "Netherlands",
+  "linkedin_url": "linkedin.com/company/greenpeace"
+}]
