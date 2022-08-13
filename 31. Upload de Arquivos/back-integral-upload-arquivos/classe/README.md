@@ -29,9 +29,6 @@ Você deverá refatorar o projeto configurando seu dotenv para receber essas var
 
 -   O email deverá conter um texto de boas vindas para o novo usuário.
 ```
-
----
-
 Preencha a checklist para finalizar o exercício:
 
 -   [ ] Resolver o exercício revendo a aula se necessário
