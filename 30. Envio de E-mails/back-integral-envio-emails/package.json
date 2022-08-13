@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "knex": "^2.1.0",
+    "nodemailer": "^6.7.5",
+    "nodemailer-express-handlebars": "^5.0.0",
+    "pg": "^8.7.3"
+  },
+  "name": "back-integral-envio-emails",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "scripts": {
+    "dev": "nodemon ./classe/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/porthiago/back-integral-envio-emails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/porthiago/back-integral-envio-emails/issues"
+  },
+  "homepage": "https://github.com/porthiago/back-integral-envio-emails#readme"
+}
