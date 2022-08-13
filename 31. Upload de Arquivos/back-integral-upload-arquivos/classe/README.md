@@ -25,19 +25,6 @@ Você deverá refatorar o projeto configurando seu dotenv para receber essas var
 
 -   Todos os endpoints deverão receber o token do usuario autenticado e validar se o produto em questão pertence a ele.
 
--   Se você não possuir credenciais do servidor de armazenamento, poderá utilizar as seguintes:
-    - URL: http://sfo3.digitaloceanspaces.com/    
-
-```
-SPACES_KEY=7QVRC3QQACPAE5TL2TV4
-SPACES_SECRET=X3o7b742fUMxmlBS+iwLUHteT+L+ueM+PFX2QPdEVzI
-SPACES_BUCKET=alunoscubosacademy
-```
-
--   Todo upload deverá ser feito em uma pasta com seu nome de usuario do GitHub. Por exemplo:
-
-Meu usuário do GitHub é `guidocerqueira`. Sendo assim, vou fazer o upload da imagem em `guidocerqueira/imagem.jpg`.
-
 3 - Implementar envio de email quando um novo usuario for cadastrado.
 
 -   O email deverá conter um texto de boas vindas para o novo usuário.
