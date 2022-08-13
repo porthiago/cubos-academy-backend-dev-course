@@ -28,14 +28,6 @@ Você deverá refatorar o projeto configurando seu dotenv para receber essas var
 3 - Implementar envio de email quando um novo usuario for cadastrado.
 
 -   O email deverá conter um texto de boas vindas para o novo usuário.
-
--   Se você não possuir credenciais do servidor SMTP, poderá utilizar as seguintes:
-
-```
-MAIL_HOST=smtp.mailgun.org
-MAIL_PORT=587
-MAIL_USER=postmaster@alunoscubosacademy.com.br
-MAIL_PASS=c12a2648104cad9b63d3bd86fe520158-aff8aa95-7a66330a
 ```
 
 ---
