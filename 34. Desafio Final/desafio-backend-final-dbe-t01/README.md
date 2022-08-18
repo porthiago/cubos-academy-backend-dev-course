@@ -1,6 +1,10 @@
 # desafio-backend-05-pdv
 ![](https://i.imgur.com/xG74tOh.png)
 
+OBS: Desafio feito em grupo
+
+Autores: [Thiago Porto](https://github.com/porthiago), [Leonardo Freitas](https://github.com/LFreitasA), [Leandro Rebouças](https://github.com/LeandroRSdev) e [Vinicius Souza](https://github.com/SouzaVinicius075)
+
 # Desafio Módulo 5 - Backend
 
 Seja bem vindo(a) ao desafio do módulo 5.
